@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "swipe-project",
+    "slug": "swipe-project",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "swipe-project"
+}
